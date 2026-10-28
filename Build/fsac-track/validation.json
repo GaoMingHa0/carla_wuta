@@ -1,0 +1,26 @@
+{
+  "length_m": 399.1586244507681,
+  "laps": 3,
+  "total_race_distance_m": 1197.4758733523045,
+  "width_m": 3.5,
+  "longest_straight_m": 58.17848090743311,
+  "minimum_centreline_radius_m": 6,
+  "hairpin_centreline_radius_m": 7,
+  "hairpin_outer_diameter_m": 17.5,
+  "cone_count": 268,
+  "start_s_m": 8.0,
+  "spawn": {
+    "x": 48.50781059358212,
+    "y": 20.0,
+    "yaw_deg": 0.0
+  },
+  "constraints_pass": true,
+  "boundary_self_intersections": 0,
+  "coordinate_system": "metres, Unreal XY; CARLA API uses same XY; OpenDRIVE Y reflected",
+  "basis": "User supplied D9.2 excerpts; geometric design check, not competition certification",
+  "opendrive_connected_roads": 26,
+  "opendrive_full_lap_successor_verified": true,
+  "runtime_cones_verified": 268,
+  "runtime_map": "ChronoTest/FSACLoop",
+  "three_lap_driving_verified": false
+}

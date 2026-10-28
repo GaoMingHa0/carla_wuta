@@ -1,0 +1,17 @@
+{
+  "source": "/home/wuta/\u4e0b\u8f7d/\u9ec4\u8272\u5c0f\u9525\u6876.STEP",
+  "dimensions_cm": [
+    20,
+    20,
+    28
+  ],
+  "vertices": 1472,
+  "triangles": 2940,
+  "colours": [
+    "red",
+    "blue",
+    "yellow"
+  ],
+  "pivot": "base centre",
+  "geometry": "one shared mesh; three material variants"
+}

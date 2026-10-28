@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<OpenDRIVE>
+  <header revMajor="1" revMinor="4" name="ChronoFlat" version="1.00" date="2026-10-22" north="20" south="-20" east="300" west="0"/>
+  <road name="ChronoStraight" length="300" id="1" junction="-1">
+    <link/>
+    <type s="0" type="town"><speed max="20" unit="m/s"/></type>
+    <planView><geometry s="0" x="0" y="0" hdg="0" length="300"><line/></geometry></planView>
+    <elevationProfile><elevation s="0" a="0" b="0" c="0" d="0"/></elevationProfile>
+    <lateralProfile/>
+    <lanes>
+      <laneOffset s="0" a="0" b="0" c="0" d="0"/>
+      <laneSection s="0">
+        <center><lane id="0" type="none" level="false"><roadMark sOffset="0" type="none" weight="standard" color="standard" width="0" laneChange="none"/></lane></center>
+        <right><lane id="-1" type="driving" level="false"><link/><width sOffset="0" a="3.5" b="0" c="0" d="0"/><roadMark sOffset="0" type="none" weight="standard" color="standard" width="0" laneChange="none"/></lane></right>
+      </laneSection>
+    </lanes>
+    <objects/>
+    <signals/>
+  </road>
+</OpenDRIVE>

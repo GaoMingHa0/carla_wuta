@@ -1,0 +1,159 @@
+<OpenDRIVE>
+<header revMajor="1" revMinor="4" name="FSACLoop" version="1.0"><geoReference>+proj=tmerc +lat_0=31 +lon_0=121 +k=1 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs</geoReference></header>
+<road name="FSACLoop" length="58.1784809074" id="1" junction="-1">
+<link><predecessor elementType="road" elementId="26" contactPoint="end" /><successor elementType="road" elementId="2" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="43.5078105936" y="-20.0000000000" hdg="-0.000000000000" length="58.1784809074"><line /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="6.2831853072" id="2" junction="-1">
+<link><predecessor elementType="road" elementId="1" contactPoint="end" /><successor elementType="road" elementId="3" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="101.6862915010" y="-20.0000000000" hdg="-0.000000000000" length="6.2831853072"><arc curvature="-0.125000000000" /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="7.8994949366" id="3" junction="-1">
+<link><predecessor elementType="road" elementId="2" contactPoint="end" /><successor elementType="road" elementId="4" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="107.3431457505" y="-22.3431457505" hdg="-0.785398163397" length="7.8994949366"><line /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="15.7079632679" id="4" junction="-1">
+<link><predecessor elementType="road" elementId="3" contactPoint="end" /><successor elementType="road" elementId="5" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="112.9289321881" y="-27.9289321881" hdg="-0.785398163397" length="15.7079632679"><arc curvature="-0.100000000000" /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="7.8994949366" id="5" junction="-1">
+<link><predecessor elementType="road" elementId="4" contactPoint="end" /><successor elementType="road" elementId="6" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="112.9289321881" y="-42.0710678119" hdg="-2.356194490192" length="7.8994949366"><line /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="6.2831853072" id="6" junction="-1">
+<link><predecessor elementType="road" elementId="5" contactPoint="end" /><successor elementType="road" elementId="7" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="107.3431457505" y="-47.6568542495" hdg="-2.356194490192" length="6.2831853072"><arc curvature="-0.125000000000" /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="29.6862915010" id="7" junction="-1">
+<link><predecessor elementType="road" elementId="6" contactPoint="end" /><successor elementType="road" elementId="8" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="101.6862915010" y="-50.0000000000" hdg="-3.141592653590" length="29.6862915010"><line /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="10.9955742876" id="8" junction="-1">
+<link><predecessor elementType="road" elementId="7" contactPoint="end" /><successor elementType="road" elementId="9" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="72.0000000000" y="-50.0000000000" hdg="-3.141592653590" length="10.9955742876"><arc curvature="0.142857142857" /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="1.0000000000" id="9" junction="-1">
+<link><predecessor elementType="road" elementId="8" contactPoint="end" /><successor elementType="road" elementId="10" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="65.0000000000" y="-57.0000000000" hdg="-1.570796326795" length="1.0000000000"><line /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="10.9955742876" id="10" junction="-1">
+<link><predecessor elementType="road" elementId="9" contactPoint="end" /><successor elementType="road" elementId="11" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="65.0000000000" y="-58.0000000000" hdg="-1.570796326795" length="10.9955742876"><arc curvature="0.142857142857" /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="29.6862915010" id="11" junction="-1">
+<link><predecessor elementType="road" elementId="10" contactPoint="end" /><successor elementType="road" elementId="12" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="72.0000000000" y="-65.0000000000" hdg="-0.000000000000" length="29.6862915010"><line /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="6.2831853072" id="12" junction="-1">
+<link><predecessor elementType="road" elementId="11" contactPoint="end" /><successor elementType="road" elementId="13" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="101.6862915010" y="-65.0000000000" hdg="-0.000000000000" length="6.2831853072"><arc curvature="-0.125000000000" /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="8.9490670053" id="13" junction="-1">
+<link><predecessor elementType="road" elementId="12" contactPoint="end" /><successor elementType="road" elementId="14" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="107.3431457505" y="-67.3431457505" hdg="-0.785398163397" length="8.9490670053"><line /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="14.6013910562" id="14" junction="-1">
+<link><predecessor elementType="road" elementId="13" contactPoint="end" /><successor elementType="road" elementId="15" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="113.6710917153" y="-73.6710917153" hdg="-0.785398163397" length="14.6013910562"><arc curvature="-0.100000000000" /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="18.2589447810" id="15" junction="-1">
+<link><predecessor elementType="road" elementId="14" contactPoint="end" /><successor elementType="road" elementId="16" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="114.4087119978" y="-86.9891100027" hdg="-2.245537269018" length="18.2589447810"><line /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="8.9605538457" id="16" junction="-1">
+<link><predecessor elementType="road" elementId="15" contactPoint="end" /><successor elementType="road" elementId="17" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="103.0024396196" y="-101.2469504755" hdg="-2.245537269018" length="8.9605538457"><arc curvature="-0.100000000000" /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="40.9843788128" id="17" junction="-1">
+<link><predecessor elementType="road" elementId="16" contactPoint="end" /><successor elementType="road" elementId="18" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="95.1937515251" y="-105.0000000000" hdg="-3.141592653590" length="40.9843788128"><line /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="8.0968913067" id="18" junction="-1">
+<link><predecessor elementType="road" elementId="17" contactPoint="end" /><successor elementType="road" elementId="19" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="54.2093727123" y="-105.0000000000" hdg="-3.141592653590" length="8.0968913067"><arc curvature="-0.083333333333" /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="21.7201603940" id="19" junction="-1">
+<link><predecessor elementType="road" elementId="18" contactPoint="end" /><successor elementType="road" elementId="20" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="46.7130321416" y="-102.3704257133" hdg="2.466851711366" length="21.7201603940"><line /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="10.9345094442" id="20" junction="-1">
+<link><predecessor elementType="road" elementId="19" contactPoint="end" /><successor elementType="road" elementId="21" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="29.7524363539" y="-88.8019490831" hdg="2.466851711366" length="10.9345094442"><arc curvature="-0.100000000000" /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="16.7263470972" id="21" junction="-1">
+<link><predecessor elementType="road" elementId="20" contactPoint="end" /><successor elementType="road" elementId="22" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="26.1935800725" y="-79.0320996373" hdg="1.373400766945" length="16.7263470972"><line /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="5.0453800119" id="22" junction="-1">
+<link><predecessor elementType="road" elementId="21" contactPoint="end" /><successor elementType="road" elementId="23" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="29.4738866202" y="-62.6305668989" hdg="1.373400766945" length="5.0453800119"><arc curvature="0.166666666667" /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="13.5941941512" id="23" junction="-1">
+<link><predecessor elementType="road" elementId="22" contactPoint="end" /><successor elementType="road" elementId="24" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="28.3904025661" y="-57.8538700881" hdg="2.214297435588" length="13.5941941512"><line /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="13.8560084403" id="24" junction="-1">
+<link><predecessor elementType="road" elementId="23" contactPoint="end" /><successor elementType="road" elementId="25" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="20.2338860753" y="-46.9785147671" hdg="2.214297435588" length="13.8560084403"><arc curvature="-0.111111111111" /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="19.7846671347" id="25" junction="-1">
+<link><predecessor elementType="road" elementId="24" contactPoint="end" /><successor elementType="road" elementId="26" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="21.8116306473" y="-34.5506954821" hdg="0.674740942224" length="19.7846671347"><line /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road><road name="FSACLoop" length="6.7474094222" id="26" junction="-1">
+<link><predecessor elementType="road" elementId="25" contactPoint="end" /><successor elementType="road" elementId="1" contactPoint="start" /></link>
+<type s="0" type="town"><speed max="30" unit="m/s" /></type>
+<planView><geometry s="0" x="37.2608601180" y="-22.1913119056" hdg="0.674740942224" length="6.7474094222"><arc curvature="-0.100000000000" /></geometry></planView><elevationProfile><elevation s="0" a="0" b="0" c="0" d="0" /></elevationProfile><lateralProfile />
+<lanes><laneOffset s="0" a="1.75" b="0" c="0" d="0" /><laneSection s="0"><center><lane id="0" type="none" level="false" /></center>
+<right><lane id="-1" type="driving" level="false"><link><predecessor id="-1" /><successor id="-1" /></link><width sOffset="0" a="3.5" b="0" c="0" d="0" /></lane></right></laneSection></lanes><objects /><signals />
+</road></OpenDRIVE>

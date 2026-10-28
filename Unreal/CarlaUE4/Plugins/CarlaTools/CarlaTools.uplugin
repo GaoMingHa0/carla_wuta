@@ -38,13 +38,13 @@
 			"Name": "ProceduralMeshComponent",
 			"Enabled": true
 		},
-    	{
+		{
 			"Name": "StreetMap",
 			"Enabled": true
 		},
 		{
 			"Name": "SimReady",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }
